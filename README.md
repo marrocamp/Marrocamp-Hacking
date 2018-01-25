@@ -85,12 +85,3 @@ Repositório | Descrição
 [Reverse Engineering] (https://github.com/onethawt/reverseengineering-reading-list) | Lista de artigos, livros e papéis da Reverse Engineering
 [RFSec-ToolKit] (https://github.com/cn0xroot/RFSec-ToolKit) | Coleção de protocolos de comunicação de radiofrequência Hacktools
 
-### Need more ?
-
-Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
- - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
- - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
-
-### Contributions
-
-Please have a look at [contributing.md](contributing.md)
