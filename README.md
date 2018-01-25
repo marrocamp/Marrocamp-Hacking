@@ -1,88 +1,89 @@
-![Awesome Hacking](awesome_hacking.jpg)
+** Uma coleção de listas incríveis para hackers, pentesters e pesquisadores de segurança. **
 
-# [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Hacking%20-%20a%20collection%20of%20awesome%20lists%20for%20hackers%20and%20pentesters%20by%20@HackwithGithub&url=https://github.com/Hack-with-Github/Awesome-Hacking&hashtags=security,hacking)
+Suas [contribuições] (contribuindo.md) são sempre bem-vindas!
 
-**A collection of awesome lists for hackers, pentesters & security researchers.**
-
-Your [contributions](contributing.md) are always welcome !
-
-### Awesome Repositories
+### Marrocamp Repositories
 
 Repository | Description
 ---- | ----
-[Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
-[AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
-[Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-[Cheatsheets](https://github.com/jshaw87/Cheatsheets)	| Penetration Testing / Security Cheatsheets
-[CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
-[Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
-[DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
-[Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development) 	| Resources for learning about Exploit Development
-[Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
-[Hacking](https://github.com/carpedm20/awesome-hacking) 						| List of awesome Hacking tutorials, tools and resources
-[Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)          | Collection of hacking / penetration testing resources to make you better!
-[Honeypots](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
-[Incident Response](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
-[Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
-[InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
-[IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
-[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 				| List of awesome malware analysis tools and resources
-[OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
-[OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
-[Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
-[Pentest](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
-[PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
-[Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) | List of Awesome Red Team / Red Teaming Resources
-[Reversing](https://github.com/fdivrp/awesome-reversing) 						| List of awesome reverse engineering resources
-[Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
-[SecLists](https://github.com/danielmiessler/SecLists) 								| Collection of multiple types of lists used during security assessments
-[Security](https://github.com/sbilly/awesome-security) 								| Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
-[Social Engineering](https://github.com/v2-dev/awesome-social-engineering) | List of awesome social engineering resources
-[Static Analysis](https://github.com/mre/awesome-static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
-[Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) 		| List of Awesome Threat Intelligence resources
-[Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
-[Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | List of resources about Vulnerability Research
-[Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| List of web application security
-[Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) 		| List of awesome Windows Exploitation resources and shiny things
-[WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
-[YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
+[Android Security] (https://github.com/ashishb/android-security-awesome) | Coleção de recursos relacionados à segurança do Android
+[AppSec] (https://github.com/paragonie/awesome-appsec) | Recursos para aprender sobre segurança de aplicativos
+[Bug Bounty] (https://github.com/djadmin/awesome-bug-bounty) | Lista de Boun Bounty Programs e write-ups do Bug Bounty hunters
+[Cheatsheets] (https://github.com/jshaw87/Cheatsheets) | Testes de penetração / Cheatsheets de segurança
+[CTF] (https://github.com/apsdehal/awesome-ctf) | Lista de estruturas CTF, bibliotecas, recursos e softwares
+[Cyber Skills] (https://github.com/joe-shenouda/awesome-cyber-skills) | Lista cortada de ambientes de hacking onde você pode treinar suas habilidades ciber legal e segura
+[DevSecOps] (https://github.com/devsecops/awesome-devsecops) | Lista de fantásticas ferramentas do DevSecOps com a ajuda de experiências e contribuições da comunidade
+[Exploit Development] (https://github.com/FabioBaroni/awesome-exploit-development) | Recursos para aprender sobre Desenvolvimento de Explorações
+[Fuzzing] (https://github.com/secfigo/Awesome-Fuzzing) | Lista de recursos de fuzzing para aprendizagem Fuzzing e fases iniciais de Exploit Development como análise de causa raiz
+[Hacking] (https://github.com/carpedm20/awesome-hacking) | Lista dos fantásticos treutórios, ferramentas e recursos de Hacking
+[Hacking Resources] (https://github.com/vitalysim/Awesome-Hacking-Resources) | Coleção de recursos de teste de pirateagem / penetração para torná-lo melhor!
+[Honeypots] (https://github.com/paralax/awesome-honeypots) | Lista de recursos de honeypot
+[Resposta a incidentes] (https://github.com/meirwah/awesome-incident-response) | Lista de ferramentas para resposta a incidentes
+[Segurança do Sistema de Controle Industrial] (https://github.com/hslatman/awesome-industrial-control-system-security) | Lista de recursos relacionados à segurança do Sistema de Controle Industrial (ICS)
+[InfoSec] (https://github.com/onlurking/awesome-infosec) | Lista de fantásticos cursos de infosec e recursos de treinamento
+[IoT Hacks] (https://github.com/nebgnahz/awesome-iot-hacks) | Coleção de Hacks no Espaço IoT
+[Análise de malware] (https://github.com/rshipp/awesome-malware-analysis) | Lista de incríveis ferramentas e recursos de análise de malware
+[OSINT] (https://github.com/jivoi/awesome-osint) | Lista de ferramentas e recursos surpreendentemente incríveis de inteligência aberta (OSINT)
+[Segurança OSX e iOS] (https://github.com/ashishb/osx-and-ios-security-awesome) | Ferramentas de segurança relacionadas ao OSX e ao iOS
+[Pcaptools] (https://github.com/caesar0301/awesome-pcaptools) | Coleção de ferramentas desenvolvidas por pesquisadores da área de Informática para processar traços de rede
+[Pentest] (https://github.com/enaqx/awesome-pentest) | Lista de fantásticos recursos de teste de penetração, ferramentas e outras coisas brilhantes
+[Segurança PHP] (https://github.com/ziadoz/awesome-php#security) | Bibliotecas para gerar números aleatórios seguros, criptografar dados e verificar vulnerabilidades
+[Red Teaming] (https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) | Lista de Awesome Red Team / Red Teaming Resources
+[Inverter] (https://github.com/fdivrp/awesome-reversing) | Lista de incríveis recursos de engenharia reversa
+[Sec Talks] (https://github.com/PaulSec/awesome-sec-talks) | Lista de conversas de segurança incríveis
+[SecLists] (https://github.com/danielmiessler/SecLists) | Coleção de vários tipos de listas usadas durante avaliações de segurança
+[Segurança] (https://github.com/sbilly/awesome-security) | Coleção de software incrível, bibliotecas, documentos, livros, recursos e resfriados sobre segurança
+[Engenharia Social] (https://github.com/v2-dev/awesome-social-engineering) | Lista de fantásticos recursos de engenharia social
+[Análise estática] (https://github.com/mre/awesome-static-analysis) | Lista de ferramentas de análise estática, linters e verificadores de qualidade de código para várias linguagens de programação
+[Inteligência de ameaça] (https://github.com/hslatman/awesome-threat-intelligence) | Lista de Recursos Awesome Threat Intelligence
+[Segurança do veículo] (https://github.com/jaredthecoder/awesome-vehicle-security) | Lista de recursos para aprender sobre segurança de veículos e hacking de carro
+[Pesquisa de Vulnerabilidade] (https://github.com/re-pronin/awesome-vulnerability-research) | Lista de recursos sobre Pesquisa de Vulnerabilidade
+[Web Hacking] (https://github.com/infoslack/awesome-web-hacking) | Lista de segurança das aplicações web
+[Explotação de Windows] (https://github.com/enddo/awesome-windows-exploitation) | Lista de fantásticos recursos de Exploração do Windows e coisas brilhantes
+[Arsenal WiFi] (https://github.com/0x90/wifi-arsenal) | Pacote de várias ferramentas úteis e inúteis para hackear 802.11
+[YARA] (https://github.com/InQuest/awesome-yara) | Lista das incríveis regras, ferramentas e pessoas do YARA
 
-### Other useful repositories
+### Outros repositórios úteis
 
-Repository | Description
+Repositório | Descrição
 ---- | ----
-[Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) | Curated list of awesome adversarial machine learning resources
-[AI Security](https://github.com/RandomAdversary/Awesome-AI-Security) | Curated list of AI security resources
-[API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API
-[APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
-[Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) 			| List of bug bounty write-up that is categorized by the bug nature
-[Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools
-[CTF Tool](https://github.com/SandySekharan/CTF-tool) 								| List of Capture The Flag (CTF) frameworks, libraries, resources and softwares
-[CVE PoC](https://github.com/qazbnm456/awesome-cve-poc) | List of CVE Proof of Concepts (PoCs)
-[Detection Lab](https://github.com/clong/DetectionLab)                              |  Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
-[Forensics](https://github.com/Cugu/awesome-forensics) 								| List of awesome forensic analysis tools and resources
-[Free Programming Books](https://github.com/EbookFoundation/free-programming-books) 			| Free programming books for developers
-[Gray Hacker Resources](https://github.com/bt3gl/My-Gray-Hacker-Resources) 			| Useful for CTFs, wargames, pentesting
-[Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started)					| A collection of resources, documentation, links, etc to help people learn about Infosec
-[Infosec Reference](https://github.com/rmusser01/Infosec_Reference) 				| Information Security Reference That Doesn't Suck
-[IOC](https://github.com/sroberts/awesome-iocs) 									| Collection of sources of indicators of compromise
-[Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | A bunch of links related to Linux kernel fuzzing and exploitation
-[Lockpicking](https://github.com/meitar/awesome-lockpicking) | Resources relating to the security and compromise of locks, safes, and keys.
-[Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)   | Curated list of tools and resources related to the use of machine learning for cyber security
-[Malware Scripts](https://github.com/seifreed/malware-scripts) 						| Useful scripts related with malware
-[Payloads](https://github.com/foospidy/payloads)  | Collection of web attack payloads
-[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)   | List of useful payloads and bypass for Web Application Security and Pentest/CTF
-[Pentest Cheatsheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)		| Collection of the cheat sheets useful for pentesting
-[Pentest Wiki](https://github.com/nixawk/pentest-wiki) 								| A free online security knowledge library for pentesters / researchers
-[Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)  | Wordlists sorted by probability originally created for password generation and testing
-[Resource List](https://github.com/FuzzySecurity/Resource-List) 					| Collection of useful GitHub projects loosely categorised
-[Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list)   | List of Reverse Engineering articles, books, and papers
-[RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit)  | Collection of Radio Frequency Communication Protocol Hacktools
-[Security Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets) 		| Collection of cheatsheets for various infosec tools and topics
-[Security List](https://github.com/zbetcheckin/Security_list)						 | Great security list for fun and profit
-[Shell](https://github.com/alebcay/awesome-shell) 									| List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
-[ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
-[Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
+[Adversarial Machine Learning] (https://github.com/yenchenlin/awesome-adversarial-machine-learning) | Lista curada de recursos de aprendizagem de máquinas adversárias impressionantes
+[Segurança AI] (https://github.com/RandomAdversary/Awesome-AI-Security) | Lista curada de recursos de segurança AI
+[Lista de verificação de segurança da API] (https://github.com/shieldfy/API-Security-Checklist) | Lista de verificação das contramedidas de segurança mais importantes ao projetar, testar e liberar sua API
+[APT Notes] (https://github.com/kbandla/APTnotes) | Vários documentos públicos, whitepapers e artigos sobre campanhas APT
+[Bug Bounty Reference] (https://github.com/ngalongc/bug-bounty-reference) | Lista de write-up de bússola de erros que é categorizada pela natureza do bug
+[Criptografia] (https://github.com/sobolevn/awesome-cryptography) | Recursos e ferramentas de criptografia
+[Ferramenta CTF] (https://github.com/SandySekharan/CTF-tool) | Lista das estruturas, bibliotecas, recursos e softwares da Capture The Flag (CTF)
+[CVE PoC] (https://github.com/qazbnm456/awesome-cve-poc) | Lista de CVE Prova de Conceitos (PoCs)
+[Laboratório de detecção] (https://github.com/clong/DetectionLab) | Vagrant & Packer scripts para construir um ambiente de laboratório completo com ferramentas de segurança e logging práticas recomendadas
+[Forensics] (https://github.com/Cugu/awesome-forensics) | Lista de fantásticas ferramentas e recursos de análise forense
+[Free Programming Books] (https://github.com/EbookFoundation/free-programmingbook) | Livros de programação gratuitos para desenvolvedores
+[Gray Hacker Resources] (https://github.com/bt3gl/My-Gray-Hacker-Resources) | Útil para CTFs, wargames, pentesting
+[Infosec Getting Started] (https://github.com/gradiuscypher/infosec_getting_started) | Uma coleção de recursos, documentação, links, etc. para ajudar as pessoas a aprender sobre Infosec
+[Referência do Infosec] (https://github.com/rmusser01/Infosec_Reference) | Referência de segurança da informação que não sugam
+[COI] (https://github.com/sroberts/awesome-iocs) | Coleta de fontes de indicadores de compromisso
+[Linux Kernel Exploitation] (https://github.com/xairy/linux-kernel-exploitation) | Um monte de links relacionados ao fuzzing e exploração do kernel do Linux
+[Lockpicking] (https://github.com/meitar/awesome-lockpicking) | Recursos relacionados à segurança e comprometimento de fechaduras, cofres e chaves.
+[Aprendizado de máquinas para segurança cibernética] (https://github.com/jivoi/awesome-ml-for-cybersecurity) | Lista cortada de ferramentas e recursos relacionados ao uso da aprendizagem por máquina para segurança cibernética
+[Scripts de malware] (https://github.com/seifreed/malware-scripts) | Scripts úteis relacionados ao malware
+[Cargas úteis] (https://github.com/foospidy/payloads) | Coleção de carga útil de ataque na web
+[PayloadsAllTheThings] (https://github.com/swisskyrepo/PayloadsAllTheThings) | Lista de cargas úteis úteis e bypass para Web Application Security e Pentest / CTF
+[Pentest Cheatsheets] (https://github.com/coreb1t/awesome-pentest-cheat-sheets) | Coleção das folhas de cheats úteis para pentesting
+[Pentest Wiki] (https://github.com/nixawk/pentest-wiki) | Uma biblioteca gratuita de conhecimento de segurança online para pentesters / pesquisadores
+[Listas de palavras prováveis] (https://github.com/berzerk0/Probable-Wordlists) | Lista de palavras ordenadas por probabilidade originalmente criada para geração e teste de senha
+[Lista de Recursos] (https://github.com/FuzzySecurity/Resource-List) | Coleção de projetos úteis do GitHub categorizados vagamente
+[Reverse Engineering] (https://github.com/onethawt/reverseengineering-reading-list) | Lista de artigos, livros e papéis da Reverse Engineering
+[RFSec-ToolKit] (https://github.com/cn0xroot/RFSec-ToolKit) | Coleção de protocolos de comunicação de radiofrequência Hacktools
+[Aprendizado de máquinas para segurança cibernética] (https://github.com/jivoi/awesome-ml-for-cybersecurity) | Lista cortada de ferramentas e recursos relacionados ao uso da aprendizagem por máquina para segurança cibernética
+[Scripts de malware] (https://github.com/seifreed/malware-scripts) | Scripts úteis relacionados ao malware
+[Cargas úteis] (https://github.com/foospidy/payloads) | Coleção de carga útil de ataque na web
+[PayloadsAllTheThings] (https://github.com/swisskyrepo/PayloadsAllTheThings) | Lista de cargas úteis úteis e bypass para Web Application Security e Pentest / CTF
+[Pentest Cheatsheets] (https://github.com/coreb1t/awesome-pentest-cheat-sheets) | Coleção das folhas de cheats úteis para pentesting
+[Pentest Wiki] (https://github.com/nixawk/pentest-wiki) | Uma biblioteca gratuita de conhecimento de segurança online para pentesters / pesquisadores
+[Listas de palavras prováveis] (https://github.com/berzerk0/Probable-Wordlists) | Lista de palavras ordenadas por probabilidade originalmente criada para geração e teste de senha
+[Lista de Recursos] (https://github.com/FuzzySecurity/Resource-List) | Coleção de projetos úteis do GitHub categorizados vagamente
+[Reverse Engineering] (https://github.com/onethawt/reverseengineering-reading-list) | Lista de artigos, livros e papéis da Reverse Engineering
+[RFSec-ToolKit] (https://github.com/cn0xroot/RFSec-ToolKit) | Coleção de protocolos de comunicação de radiofrequência Hacktools
 
 ### Need more ?
 
